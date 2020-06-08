@@ -29,12 +29,13 @@ creating a react-native app to capture photos or selecting from mobile and uploa
      
      screens/imageshow.js
      
-   ->this screen retreives the image from firestore by using the uri that we send from imageupload screen
-   
+   ->this screen retreives the image from firestore by using the uri that we send from imageupload screen.We can see the uri and username are uploaded successfully to cloud firestore
+  
    ![](images/Screenshot%20from%202020-06-08%2023-44-37.png)
    
   4.RUN THE APP IN EXPO CLIENT
-    ->Enter the project and then..
+  
+   ->Enter the project and then..
     
        react-image-picker/npm start
        
